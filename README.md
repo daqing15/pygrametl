@@ -1,7 +1,7 @@
 Pygrametl
 =============
 
-Pygrametl is our sofwtare of choice for managing DataWarehouse dimensions and facts.
+Pygrametl is our software of choice for managing DataWarehouse dimensions and facts.
 
 References
 -------
